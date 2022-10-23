@@ -24,7 +24,7 @@ Dans un chapitre sur l'histoire de l'enseignement du design, Davis retrace les o
 
 Sur l'école d'Ulm: cette école a introduit dans le curriculum la **sémiotique**, le *design research*, la méthode scientifique, la théorie de la communication...
 
-### Conception de curriculum
+### Conception de curriculum
 
 Sur la conception de curriculums efficaces. Davis met en avant l'importance du "mission statement". Eléments à définir dans un curriculum, pour un cours:
 
